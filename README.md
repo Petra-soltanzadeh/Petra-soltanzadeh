@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there! I'm Petra Soltanzadeh Makouei 👋
 
-<!--
-**Petra-soltanzadeh/Petra-soltanzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>B.Sc. Mechanical Engineering Student | Sharif University of Technology, International Campus (Kish)</b><br>
+  <i>Passionate about Automatic Control, Vibrations, and Applied Mechanical Systems</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 7th Semester B.Sc. student in Mechanical Engineering (GPA: 16.7).
+- ⚙️ Research & Technical Interests: **Automatic Control, Vibrations, and Mechanical Systems Design.**
+- 🏫 Academic Background: Teaching Assistant (TA) for 2 years in **Pre-Physics** and **Pre-Mathematics** courses.
+- 📜 Certifications: MSRT, TTC, and multiple professional certificates from **Mojtame Fanni Tehran**.
+- 🛠 Practical Experience: 8-week internship at Tamin Ejtemaei Hospital (Shazand), focusing on building infrastructure, facility management, and renovation projects.
+
+---
+
+### 🎓 Certifications (Mojtame Fanni Tehran)
+- 🟢 Introduction to Algorithms & Programming
+- 🐍 Programming with Python
+- 📊 Data Analysis with Python
+- 🤖 Machine Learning with Python
+
+---
+
+### 🛠 Technical Skills
+<p align="left">
+  <!-- Programming & Data -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br/>
+  <!-- Engineering & Tools -->
+  <img src="https://img.shields.io/badge/Mechanical_Engineering-E34F26?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automatic_Control-008080?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Petra-soltanzadeh&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petra-soltanzadeh&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" />
+</p>
+
+---
+
+### 📬 Let's Connect!
+<p align="left">
+  <a href="mailto:petrasoltanzadeh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/petra-soltanzadeh-makouei-5183a1437"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
