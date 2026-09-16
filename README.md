@@ -44,8 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Petra-soltanzadeh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Petra-soltanzadeh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Petra-soltanzadeh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Petra-soltanzadeh&theme=tokyonight" alt="GitHub Summary" width="95%" />
 </p>
 
 ---
